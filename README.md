@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi , I am **AZEEZ**
+#### An Tech Enthusiast Software Developer
+![An Tech Enthusiast Software Developer](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
-<!--
-**mohammmed-azeez/mohammmed-azeez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+With a strong passion for technology and innovation, I am eager to impact the tech industry significantly. As a quick learner, I possess a solid project knowledge foundation and demonstrate exceptional analytical and problem-solving skills. With a drive for continuous growth and learning,
 
-Here are some ideas to get you started:
+Skills: Python / JS / HTML / CSS / Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Quantitative Development 
+- 💬 Ask me about Blockchain 
+- 📫 How to reach me: zaidhusssain@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mohammmed-azeez)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohammed-azeez//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mohammmed_azeez//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/mohammmed_azeez)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/mohammmed-azeez)  
