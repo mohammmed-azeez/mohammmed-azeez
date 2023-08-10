@@ -4,7 +4,7 @@
 
 ![An Tech Enthusiast Software Developer](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
-<center>With a strong passion for technology and innovation, I am eager to impact the tech industry significantly. As a quick learner, I possess a solid project knowledge foundation and demonstrate exceptional analytical and problem-solving skills. With a drive for continuous growth and learning</center>
+With a strong passion for technology and innovation, I am eager to impact the tech industry significantly. As a quick learner, I possess a solid project knowledge foundation and demonstrate exceptional analytical and problem-solving skills. With a drive for continuous growth and learning
 
 Skills: Python / JS / HTML / CSS / Java
 
