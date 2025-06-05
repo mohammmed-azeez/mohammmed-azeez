@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="100%" alt="AI Banner" />
+    <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="600" alt="AI Banner" />
 </p>
 
 <h1 align="center">Hey, I'm Azeez 👋</h1>
