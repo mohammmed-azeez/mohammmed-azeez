@@ -35,7 +35,7 @@
 - Generative AI & LLMs  
 - Model Compression for Edge AI  
 - Cyber Threat Intelligence using NLP  
-- Flash Loan Automation & DeFi Strategy Modeling  
+- Blockchain & DeFi Strategy Modeling  
 - Applied ML for Healthcare & Security  
 
 ---
